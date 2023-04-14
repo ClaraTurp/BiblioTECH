@@ -1,5 +1,5 @@
 ---
-parent: Archived BiblioTECHs
+parent: Archive
 nav_order: 3
 ---
 # Schedule from 2022

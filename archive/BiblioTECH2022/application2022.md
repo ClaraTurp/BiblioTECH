@@ -1,5 +1,5 @@
 ---
-parent: Archived BiblioTECHs
+parent: Archive
 nav_order: 2
 ---
 # Applying to BiblioTECH 2022
