@@ -2,7 +2,7 @@
 parent: Archived BiblioTECHs
 nav_order: 2
 ---
-# Applying to BiblioTECH
+# Applying to BiblioTECH 2022
 [Return to home page](https://code4libmontreal.github.io/BiblioTECH/)
 
 ## About the process
