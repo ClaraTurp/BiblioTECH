@@ -5,7 +5,7 @@ nav_order: 1
 
 [Cliquez ici pour accéder au site en français](https://code4libmontreal.github.io/Programme-BiblioTECH/) <br>
 ## August 8th 2022 - August 12th 2022.
-### About BiblioTECH 2022
+# About BiblioTECH 2022
 
 Code4Lib Mtl is proud to announce the first **BiblioTECH Jumpstart Program**, which is planned for the week of August 8th to August 12th, 2022.  
 
