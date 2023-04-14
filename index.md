@@ -4,18 +4,18 @@ nav_order: 1
 
 # Welcome to BiblioTECH
 [Cliquez ici pour accéder au site en français](https://code4libmontreal.github.io/Programme-BiblioTECH/) <br>
-## August 8th 2022 - August 12th 2022.
+## July 31st, 2023 - August 4th, 2023
 ### About BiblioTECH
 
-Code4Lib Mtl is proud to announce the first **BiblioTECH Jumpstart Program**, which is planned for the week of August 8th to August 12th, 2022.  
+Code4Lib Mtl is proud to announce the first **BiblioTECH Jumpstart Program**, which is planned for the week of July 31st to August 4th, 2022.  
 
-This week-long bilingual program is designed for students in Masters of Information Studies programs in Quebec, Canada. BiblioTECH will be offered virtually via zoom. 
+This week-long program, designed for students in Masters of Information Studies programs in Quebec, Canada, will be offered primarily in English with extensive French support. BiblioTECH will be offered virtually via Zoom. 
 This program is based on the [Library Technology career Jumpstart Program at North Carolina State University.](https://www.lib.ncsu.edu/jumpstart)
 
-[Apply](https://surveys.mcgill.ca/ls3/447491?lang=en){: .btn .btn-blue }{:target='_blank'}
+[Apply](https://surveys.mcgill.ca/ls3/557326?lang=en){: .btn .btn-blue }{:target='_blank'}
 
 **This program will introduce participants to**
-* Core library-focused tech skills, such as Git, Excel, OpenRefine and Python
+* Core library-focused tech skills, such as Command Line, Git, Excel, OpenRefine and Python
 * Important concepts, such as Research Data Management and Digital Preservation
 * The large variety of possibilities in the realm of tech-related jobs in libraries and archives
 
@@ -29,8 +29,8 @@ This program is based on the [Library Technology career Jumpstart Program at Nor
 
 ### Important information
 * It is free!
-* It is bilingual (French and English), however sessions will be offered in one language with documents shared in both languages.
-* This year the program is a pilot. We will be soliciting feedback.
-* This program will be offered online, using Zoom
-* We will accept a maximum of 15 participants
+* It is offered in English with extensive support for French-language learners. Most sessions will be offered in English, with notes and office hours in French. As much as possible written session documentation will be offered in both languages. 
+* This is our second year offering this program. We will be soliciting feedback.
+* This program will be offered online, using Zoom.
+* We will accept a maximum of 15 participants.
 

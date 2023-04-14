@@ -4,9 +4,6 @@ nav_order: 3
 # Schedule for 2023
 [Return to the home page](https://code4libmontreal.github.io/BiblioTECH/)
 
-The schedule for 2023 is coming soon!
-
-<!---
 ### Table of Contents
 1. [Day 1: July 31st](#Monday)
 2. [Day 2: August 1st](#Tuesday)
@@ -21,14 +18,14 @@ The schedule for 2023 is coming soon!
 
 <details>
   <summary>Description</summary>
-Introductions, overview of the plan for the week, and instructions regarding office hours and asynchronous content, and job shadowing. 
+Description coming soon<!---Introductions, overview of the plan for the week, and instructions regarding office hours and asynchronous content, and job shadowing.--> 
   </details>
 
 ### Basics of Data Management
 #### 12:45 - 1:45 PM <br>
 <details>
   <summary>Description</summary>
-This workshop will provide attendees with an overview of the best practices for efficiently managing data during the research process. This workshop will provide attendees with practical tips and examples on how to organize data across files and folders, set up folders according to a logical schema, create README documentation to map out folder hierarchies, and implement a file naming convention.
+Description coming soon<!---This workshop will provide attendees with an overview of the best practices for efficiently managing data during the research process. This workshop will provide attendees with practical tips and examples on how to organize data across files and folders, set up folders according to a logical schema, create README documentation to map out folder hierarchies, and implement a file naming convention.-->
       </details>
 <details>
   <summary>Presenter Bios</summary>
@@ -39,7 +36,7 @@ Presenter bio coming soon<br><br>
 #### 3:00 - 3:15 PM <br>
 <details>
   <summary>Description</summary>
-French quarter description (if needed?)
+Description coming soon<!---French quarter description (if needed?)-->
       </details>
       
 ### Introduction to Command Line
@@ -47,7 +44,7 @@ French quarter description (if needed?)
 
 <details>
   <summary>Description</summary>
-**Begin** to understand and use Git/GitHub. This session is not intended to produce expertise by the end of the class. Attendees will probably not even feel very comfortable using Git. This is okay. We want to make a start but, as with any skill, using Git takes practice.
+Description coming soon<!---**Begin** to understand and use Git/GitHub. This session is not intended to produce expertise by the end of the class. Attendees will probably not even feel very comfortable using Git. This is okay. We want to make a start but, as with any skill, using Git takes practice.-->
     </details>
 <details>
   <summary>Presenter Bios</summary>
@@ -63,7 +60,7 @@ Presenter bio coming soon
 #### 12:00 - 12:30 PM <br>
 <details>
   <summary>Description</summary>
-Recap of the previous day and overview of today's schedule. 
+Description coming soon<!---Recap of the previous day and overview of today's schedule.--> 
   </details>
 
 ### Applying for your First Library Technology Job
@@ -71,7 +68,7 @@ Recap of the previous day and overview of today's schedule.
 
 <details>
   <summary>Description</summary>
-In the first half of this session (30 minutes), guest speakers will discuss their career paths from library school to their current jobs. We will look through job applications, discuss academic vs. normal CVs, and answer questions. In the second half of the session (30 minutes), speakers will go through using LaTex for CVs and note what CVs should look like. 
+Description coming soon<!---In the first half of this session (30 minutes), guest speakers will discuss their career paths from library school to their current jobs. We will look through job applications, discuss academic vs. normal CVs, and answer questions. In the second half of the session (30 minutes), speakers will go through using LaTex for CVs and note what CVs should look like.--> 
   </details>
 <details>
   <summary>Presenter Bios</summary>
@@ -82,17 +79,17 @@ Presenter bio coming soon<br><br>
 #### 3:00 - 3:15 PM <br>
 <details>
   <summary>Description</summary>
-French quarter description coming soon
+Description coming soon
       </details>
   
 ### Excel: Clean Up Messy Data
 #### 3:15 - 4:15 PM <br>
 <details>
   <summary>Description</summary>
-The goal of today’s workshop is to introduce you to useful tips, tricks, and tools in Excel, to begin to guide your work with Excel as an information professional. This session will be by no means comprehensive, in terms of covering everything that you may ever need to use in Excel, but the hope is that by the end of the session you will: 
+Description coming soon<!---The goal of today’s workshop is to introduce you to useful tips, tricks, and tools in Excel, to begin to guide your work with Excel as an information professional. This session will be by no means comprehensive, in terms of covering everything that you may ever need to use in Excel, but the hope is that by the end of the session you will: 
 <ul><li>Be aware of a range of tools and functions that (in the experience of the presenter) are very useful for library work</li>
 <li>Be aware of some helpful tips and tricks to save time and make the most of what Excel can do for you</li>
-<li>Feel more confident in your ability to navigate within Excel, and to look to Google, the Microsoft Excel help site, and other sources whenever you need to find a new tool or function or troubleshoot an error</li></ul>
+<li>Feel more confident in your ability to navigate within Excel, and to look to Google, the Microsoft Excel help site, and other sources whenever you need to find a new tool or function or troubleshoot an error</li></ul>-->
     </details>
 <details>
   <summary>Presenter Bio</summary>
@@ -101,6 +98,10 @@ Presenter bio coming soon
 
 ### Open Refine: Clean Up Messy Data
 #### 4:30 - 5:30 PM <br>
+<details>
+  <summary>Description</summary>
+Description coming soon
+</details>
 <details>
   <summary>Presenter Bio</summary>
 Presenter bio coming soon
@@ -123,7 +124,7 @@ Recap of the previous day and overview of today's schedule.
 
 <details>
   <summary>Description</summary>
-Speakers will discuss their career paths from library school to their current jobs. Panelists will offer advice based on what helped them land their current roles, they will also help you understand what are the key required skills for their current position, and what they would have done differently with their current knowledge.
+Description coming soon<!---Speakers will discuss their career paths from library school to their current jobs. Panelists will offer advice based on what helped them land their current roles, they will also help you understand what are the key required skills for their current position, and what they would have done differently with their current knowledge.-->
   </details>
 <details>
   <summary>Presenter Bios</summary>
@@ -134,7 +135,7 @@ Speaker bios coming soon
 #### 3:00 - 3:15 PM <br>
 <details>
   <summary>Description</summary>
-French quarter description coming soon
+Description coming soon
       </details>
 
 ### Introduction to Git & GitHub
@@ -142,7 +143,7 @@ French quarter description coming soon
 
 <details>
   <summary>Description</summary>
-Session description coming soon
+Description coming soon
   </details>
 <details>
   <summary>Presenter Bios</summary>
@@ -167,7 +168,7 @@ Recap of the previous day and overview of today's schedule.
 
 <details>
   <summary>Description</summary>
-Speakers will discuss their career paths from library school to their current jobs. Panelists will offer advice based on what helped them land their current roles, they will also help you understand what are the key required skills for their current position, and what they would have done differently with their current knowledge. 
+Description coming soon<!---Speakers will discuss their career paths from library school to their current jobs. Panelists will offer advice based on what helped them land their current roles, they will also help you understand what are the key required skills for their current position, and what they would have done differently with their current knowledge.--> 
   </details>
 <details>
   <summary>Presenter Bios</summary>
@@ -178,7 +179,7 @@ Presenter bios coming soon
 #### 3:00 - 3:15 PM <br>
 <details>
   <summary>Description</summary>
-French quarter description coming soon
+Description coming soon
       </details>
   
 ### Python
@@ -186,7 +187,7 @@ French quarter description coming soon
 
 <details>
   <summary>Description</summary>
-This workshop is an introduction to Python. You will write Python code, using a practical code-along methodology. This workshop will use the content developed by Carpentries and aims to give learners foundational knowledge to tackle projects. 
+Description coming soon<!---This workshop is an introduction to Python. You will write Python code, using a practical code-along methodology. This workshop will use the content developed by Carpentries and aims to give learners foundational knowledge to tackle projects.--> 
   </details>
 <details>
   <summary>Presenter Bio</summary>
@@ -221,7 +222,7 @@ Presenter bios coming soon
 #### 3:00 - 3:15 PM <br>
 <details>
   <summary>Description</summary>
-French quarter description coming soon
+Description coming soon
       </details>
   
 ### Digital Preservation
@@ -229,7 +230,7 @@ French quarter description coming soon
 
 <details>
   <summary>Description</summary>
-This session will cover a few key concepts in digital preservation and will include a demonstration of preservation actions performed with various open-source, such as Archivematica.
+Description coming soon<!---This session will cover a few key concepts in digital preservation and will include a demonstration of preservation actions performed with various open-source, such as Archivematica.-->
   </details>
 <details>
   <summary>Presenter Bios</summary>
@@ -241,7 +242,7 @@ Presenter bio coming soon
 
 <details>
   <summary>Description</summary>
-As an increasing number of libraries and archives begin to launch web archiving projects, familiarity with web archiving practices is an asset for new information professionals. This hands-on workshop will cover the basics of web archiving and give participants a chance to practice archiving content on the web using accessible and open-source tools.
+Description coming soon<!---As an increasing number of libraries and archives begin to launch web archiving projects, familiarity with web archiving practices is an asset for new information professionals. This hands-on workshop will cover the basics of web archiving and give participants a chance to practice archiving content on the web using accessible and open-source tools.-->
   </details>
 <details>
   <summary>Presenter Bio</summary>
@@ -251,4 +252,3 @@ Presenter bio coming soon
 
 ### Closing Remarks
 #### 5:30 - 6:00 PM
---->
