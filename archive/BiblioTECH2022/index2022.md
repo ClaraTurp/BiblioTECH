@@ -1,4 +1,8 @@
-# Welcome to BiblioTECH
+---
+parent: Archived BiblioTECHs
+nav_order: 1
+---
+
 [Cliquez ici pour accéder au site en français](https://code4libmontreal.github.io/Programme-BiblioTECH/) <br>
 ## August 8th 2022 - August 12th 2022.
 ### About BiblioTECH

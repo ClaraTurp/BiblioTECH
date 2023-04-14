@@ -1,3 +1,7 @@
+---
+parent: Archived BiblioTECHs
+nav_order: 2
+---
 # Applying to BiblioTECH
 [Return to home page](https://code4libmontreal.github.io/BiblioTECH/)
 

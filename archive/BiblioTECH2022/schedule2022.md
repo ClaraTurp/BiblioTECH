@@ -1,3 +1,7 @@
+---
+parent: Archived BiblioTECHs
+nav_order: 3
+---
 # Schedule from 2022
 [Return to the home page](https://code4libmontreal.github.io/BiblioTECH/)
 
