@@ -3,7 +3,7 @@ parent: Archive
 nav_order: 2
 ---
 # Applying to BiblioTECH 2022
-[Return to home page](https://code4libmontreal.github.io/BiblioTECH/)
+[Return to home page](https://code4libmontreal.github.io/BiblioTECH/archive/BiblioTECH2022/about2022.html)
 
 ## About the process
 We welcome all applications from any student currently enrolled in a Masters of Information Studies program in Quebec, Canada. Please note that we are committed to creating a diverse and accessible environment for this program. To apply to participate in this program, please fill out and submit the application form (click the "Apply" button below). The application process will **not** include interviews.

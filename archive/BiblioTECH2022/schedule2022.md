@@ -3,7 +3,7 @@ parent: Archive
 nav_order: 3
 ---
 # Schedule from 2022
-[Return to the home page](https://code4libmontreal.github.io/BiblioTECH/)
+[Return to the home page](https://code4libmontreal.github.io/BiblioTECH/archive/BiblioTECH2022/about2022.html)
 
 ### Table of Contents
 1. [Day 1: August 8th](#Monday)
