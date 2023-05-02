@@ -44,7 +44,7 @@ Description coming soon<!---French quarter description (if needed?)-->
 
 <details>
   <summary>Description</summary>
-Description coming soon<!---**Begin** to understand and use Git/GitHub. This session is not intended to produce expertise by the end of the class. Attendees will probably not even feel very comfortable using Git. This is okay. We want to make a start but, as with any skill, using Git takes practice.-->
+Description coming soon
     </details>
 <details>
   <summary>Presenter Bios</summary>
