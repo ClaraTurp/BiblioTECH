@@ -13,12 +13,12 @@ nav_order: 3
 
 ## Monday, July 31st 2023 <a name="Monday"></a>
 
-### Welcome
-#### 11:30 AM - 12:30 PM <br>
+### 11:30 AM - 12:30 PM : Welcome
+#### English / French
 
 <details>
   <summary>Description</summary>
-Description coming soon<!---Introductions, overview of the plan for the week, and instructions regarding office hours and asynchronous content, and job shadowing.--> 
+Introductions, overview of the plan for the week, and instructions regarding office hours and asynchronous content. 
   </details>
 
 ### Basics of Data Management
@@ -44,7 +44,7 @@ Description coming soon<!---French quarter description (if needed?)-->
 
 <details>
   <summary>Description</summary>
-Description coming soon
+This workshop will introduce you to the command line. You will be able to explain why and how to use the command line, and to use shell commands to work with directories and files. 
     </details>
 <details>
   <summary>Presenter Bios</summary>
