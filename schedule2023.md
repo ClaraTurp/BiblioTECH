@@ -51,7 +51,7 @@ Isabelle Giguère is a Systems librarian at Université de Montréal's Direction
 
 ## Tuesday, August 1st 2023 <a name="Tuesday"></a>
 
-### 12:00 - 12:30 PM : Daily Check-In
+### 12:30 - 12:40 PM : Daily Check-In
 #### English / French
 <details>
   <summary>Description</summary>
@@ -104,7 +104,7 @@ Robin Desmeules has been a Cataloguing Librarian at McGill University since 2015
 
 ## Wednesday, August 2nd 2023 <a name="Wednesday"></a>
 
-### 12:00 - 12:30 PM : Daily Check-In
+### 12:30 - 12:40 PM : Daily Check-In
 #### English / French
 <details>
   <summary>Description</summary>
@@ -146,7 +146,7 @@ Scott Goldstein is the Coordinator, Web Services & Library Technology at McGill 
 
 ## Thursday, August 3rd 2023 <a name="Thursday"></a>
 
-### 12:00 - 12:30 PM : Daily Check-In
+### 12:30 - 12:40 PM : Daily Check-In
 #### English / French
 <details>
   <summary>Description</summary>
@@ -188,7 +188,7 @@ Clara Turp is the Discovery Systems Librarian at McGill University Library. She 
 ## Friday, August 4th 2023 <a name="Friday"></a>
 
 ### Daily Check-In
-#### 12:00 - 12:30 PM <br>
+#### 12:30 - 12:40 PM <br>
 <details>
   <summary>Description</summary>
 Recap of the previous day and overview of today's schedule. 
