@@ -4,10 +4,10 @@ nav_order: 1
 
 # Welcome to BiblioTECH
 [Cliquez ici pour accéder au site en français](https://code4libmontreal.github.io/Programme-BiblioTECH/) <br>
-## July 31st, 2023 - August 4th, 2023
+## August 12th-16th, 2024
 ### About BiblioTECH
 
-Code4Lib Mtl is proud to announce the second annual **BiblioTECH Jumpstart Program**, which is planned for the week of July 31st to August 4th, 2023.  
+Code4Lib Mtl is proud to announce the second annual **BiblioTECH Jumpstart Program**, which is planned for the week of August 12th to 16th, 2024.  
 
 This week-long program, designed for students in Masters of Information Studies programs in Quebec, Canada, will be offered primarily in English with extensive French support. BiblioTECH will be offered virtually via Zoom. 
 This program is based on the [Library Technology career Jumpstart Program at North Carolina State University.](https://www.lib.ncsu.edu/jumpstart)

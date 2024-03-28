@@ -1,9 +1,12 @@
 ---
 nav_order: 3
 ---
-# Schedule for 2023
+# Schedule for 2024
 [Return to the home page](https://code4libmontreal.github.io/BiblioTECH/)
 
+The schedule for 2024 is coming soon!  
+
+<!--
 ### Table of Contents
 1. [Day 1: July 31st](#Monday)
 2. [Day 2: August 1st](#Tuesday)
@@ -62,7 +65,7 @@ Recap of the previous day and overview of today's schedule.
 #### English
 <details>
   <summary>Description</summary>
-Description coming soon<!---In the first half of this session (30 minutes), guest speakers will discuss their career paths from library school to their current jobs. We will look through job applications, discuss academic vs. normal CVs, and answer questions. In the second half of the session (30 minutes), speakers will go through using LaTex for CVs and note what CVs should look like.--> 
+In the first half of this session (30 minutes), guest speakers will discuss their career paths from library school to their current jobs. We will look through job applications, discuss academic vs. normal CVs, and answer questions. In the second half of the session (30 minutes), speakers will go through using LaTex for CVs and note what CVs should look like. 
   </details>
 <details>
   <summary>Presenter Bios</summary>
@@ -239,3 +242,4 @@ Sarah Lake is the digital preservation librarian at Concordia University, where 
 
 ### 5:30 - 6:00 PM : Closing Remarks
 #### English / French
+-->
