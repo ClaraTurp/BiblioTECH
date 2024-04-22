@@ -12,7 +12,7 @@ Code4Lib Mtl is proud to announce the second annual **BiblioTECH Jumpstart Progr
 This week-long program, designed for students in Masters of Information Studies programs in Quebec, Canada, will be offered primarily in English with extensive French support. BiblioTECH will be offered virtually via Zoom. 
 This program is based on the [Library Technology career Jumpstart Program at North Carolina State University.](https://www.lib.ncsu.edu/jumpstart)
 
-[Apply (coming soon!)](){: .btn .btn-blue }{:target='_blank'}
+[Apply](https://surveys.mcgill.ca/ls3/932367?lang=en){: .btn .btn-blue }{:target='_blank'}
 
 **This program will introduce participants to**
 * Core library-focused tech skills, such as Command Line, Git, Excel, OpenRefine and Python
